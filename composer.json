@@ -1,5 +1,5 @@
 {
-    "name": "mangelsnc/cognitive-face-api-php",
+    "name": "inquid/inquid-face-api-php",
     "description": "A PHP API for Microsoft Cognitive Face API",
     "type": "library",
     "require": {
